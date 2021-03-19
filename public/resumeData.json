@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name":"Ryan Hu",
+    "occupation":"Toronto based first-year engineering student at the University of Waterloo.",
+    "image":"profilepic.jpg",
+    "bio":"I'm an 1B Managment Engineering student at the University of Waterloo. I am an avid hacker and I always enjoy learning new technologies to improve my skillset. I am still seeking my first co-op for the term of Summer 2021. Apart from programming, I am an avid car enthusiast, ski instructor and Raptors fan. Feel free to get in touch with me!",
+    "contactmessage":"Get in touch with me!",
+    "email": "Ryan.hu@uwaterloo.ca",
+    "phone": "647-893-9778",
+    "website": "http://www.ryanhu.ca",
+    "resumedownload":"https://resume.creddle.io/resume/3vj33uymmq6",
+    "social":[
+      {
+        "name":"email",
+        "url":"mailto:ryan.hu@uwaterloo.ca",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ryanhu20/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/Ryanh8",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Waterloo",
+        "degree":"BA.Sc Applied Science",
+        "graduated":"2025",
+        "description":"Relevant Coursework: Java Programming | Electrical Ciruits | Excel manipulation & VBA Programming"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"25%"
+      },
+      {
+        "name":"Java",
+        "level":"30%"
+      },
+      {
+        "name":"Tensorflow",
+        "level":"40%"
+      },
+      {
+        "name":"Google Cloud Platform",
+        "level":"30%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RecipeGO",
+        "category":"AI cooking assistant that gives recipes from ingredients inside a picture of a fridge",
+        "image":"food.jpeg",
+        "url":"https://github.com/Reckonzz/recipeGO"
+      },
+      {
+        "title":"INvisualize",
+        "category":"Web-app that retrieves company stock information with a photo using deep learning",
+        "image":"stock.jpeg",
+        "url":"https://github.com/AidanXu/hack-the-north-2018"
+      },
+      {
+        "title":"Personal Website",
+        "category":"My personal website developed using ReactJS",
+        "image":"bmw.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Mobile Chatbot",
+        "category":"A React based resume website template",
+        "image":"chatbot.png",
+        "url":"https://github.com/Ryanh8/mobilechatbot"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":"Anna Lee, Marco Polo Academy"
+      }
+    ]
+  }
+}
