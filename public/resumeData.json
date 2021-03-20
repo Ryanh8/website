@@ -40,26 +40,26 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Notable Projects",
+        "title":"Hack the North",
+        "years":"2018-2020",
+        "description":"Designed AI web app cooking assisant to give recipes from a picture of ingredients in fridge using Tensorflow Res-Net model and REST API's. Developed web app that retrieves company stock info using IBM Watson and IBM cloud"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Leadership experience",
+        "title":"Fuse Society",
+        "years":"2018-2020",
+        "description":"Organized multiple initiatives for 10 000+ youth nationally in Vancouver and Canada. Secured $6000+ in sponsorships and raised $10 000 book donations across the community"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"Python",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"ReactJs",
@@ -71,15 +71,15 @@
       },
       {
         "name":"Tensorflow",
-        "level":"40%"
+        "level":"60%"
       },
       {
         "name":"Google Cloud Platform",
-        "level":"30%"
+        "level":"60%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"JavaScript",
+        "level":"60%"
       }
     ]
   },
@@ -114,7 +114,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"",
+        "text":"Ryan has been a significant asset to my tutoring company in the last 3 years he has worked for me.",
         "user":"Anna Lee, Marco Polo Academy"
       }
     ]
