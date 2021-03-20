@@ -24,7 +24,9 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
+                  <h2>Contact Details:</h2>
+                  <h2>ryan.hu@uwaterloo.ca</h2>
+                  <h2>+1(647)-893-9778</h2>
                   
                </div>
                <div className="columns download">

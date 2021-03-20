@@ -34,9 +34,9 @@ class Header extends Component {
 
             <div className="row banner">
                <div className="banner-text">
-                  <h2><ReactTypingEffect
+                  <h1><ReactTypingEffect
                      text={["Hello World!"]}
-                  /></h2>
+                  /></h1>
                   <h1 className="responsive-headline">I'm Ryan Hu.</h1>
                   <h3><span>{occupation}</span>. {description}.</h3>
                   <hr />

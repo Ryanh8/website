@@ -8,7 +8,8 @@
     "email": "Ryan.hu@uwaterloo.ca",
     "phone": "647-893-9778",
     "website": "http://www.ryanhu.ca",
-    "resumedownload":"https://resume.creddle.io/resume/3vj33uymmq6",
+    "resumedownload": "https://resume.creddle.io/resume/3vj33uymmq6",
+    "mail": "mailto:ryan.hu@uwaterloo.ca",
     "social":[
       {
         "name":"email",
@@ -114,7 +115,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Ryan has been a significant asset to my tutoring company in the last 3 years he has worked for me.",
+        "text":"Ryan has been a hardworking, dedicated and passionate employee at my tutor company in the last 3 years he has worked as a robotics teacher.",
         "user":"Anna Lee, Marco Polo Academy"
       }
     ]
